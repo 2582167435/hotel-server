@@ -1,4 +1,4 @@
 package com.hotel.springboot.dao;
 
-public class test {
+public interface Test {
 }
